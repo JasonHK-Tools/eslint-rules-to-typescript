@@ -20,5 +20,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "@jasonhk/typescript-config": "^1.0.1",
+    "typescript": "^3.9.3"
+  }
 }
